@@ -1,2 +1,2 @@
 # Vrundavaninfotechandmobile
-Client project
+Simple static website for the cctv camera business
